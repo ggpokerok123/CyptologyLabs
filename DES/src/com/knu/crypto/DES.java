@@ -1,7 +1,7 @@
 package com.knu.crypto;
 import java.util.Scanner;
 
-public class SHA1 {
+public class DES {
 
     public static int messLength = 0;
 
